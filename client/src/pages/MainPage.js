@@ -15,28 +15,7 @@ function MainPage(){
         return <Loader />
     }
 
- 
 
-    /*
-
-    instead of pictures will be songs
-    <img src={defaultAvatar} alt='' style={{width: '100px', height: '100px'}}></img>
-
-    */
-
-
-    /*
-    
-    Rewrite all styles
-    Write to them classNames, and then write styles in css file
-
-    If someone wants change his pass he need to write correct present pass
-
-    RENAME PROJECT 'FRONT-END-HUB'
-
-    DESIGN LIKE ON FAMOUS SITE
-    
-    */
     return (
         <div className='main-page-main-div-1'>
             <div className='main-page-main-div-2'>
